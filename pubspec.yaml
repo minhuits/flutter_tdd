@@ -13,11 +13,11 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  bloc_test: ^9.0.2
 
 dev_dependencies:
   integration_test:
     sdk: flutter
+
   flutter_test:
     sdk: flutter
 
