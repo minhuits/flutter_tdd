@@ -5,4 +5,3 @@ Flutter Unit, Widget, Integration, Bloc Testing project.
 1. Unit test
 2. Widget Test
 3. Integration Test
-4. Bloc Test
